@@ -79,6 +79,8 @@ Create translations (optional)::
     ./contrib/pull_locale
 
 
+Prebuilt binaries are included:
+https://github.com/PKTW3/electrum/tree/master/binary
 
 
 Creating Binaries
